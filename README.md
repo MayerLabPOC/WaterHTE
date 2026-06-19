@@ -8,6 +8,8 @@ This repository contains the experimental kinetic datasets, scripts and machine 
 
 ## Repository Structure
 
+The sections of the repository refer to the section of the supporting information. 
+
 ### Experimental Kinetic Data
 
 All experimental data generated and analyzed in this work are available in:
