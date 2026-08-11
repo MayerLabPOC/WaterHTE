@@ -15,7 +15,7 @@ The sections of the repository refer to the section of the supporting informatio
 All experimental data generated and analyzed in this work are available in:
 
 ```text
-Section9_kinetics/
+section9_kinetics/
 ```
 
 ### Machine Learning Models and Analysis
@@ -23,7 +23,7 @@ Section9_kinetics/
 All machine learning models and model evaluation scripts are available in:
 
 ```text
-Section10_ML_regression/
+section10_ML_regression/
 ```
 ---
 ### Scripts for batch analysis
@@ -32,6 +32,14 @@ The script used for analyzing kinetic traces is available in:
 
 ```text
 script_batchkinetics/
+```
+---
+### Raw data for DFT calculations
+
+All raw data for the performed DFT calculations is available in:
+
+```text
+section13_dft/
 ```
 ---
 
