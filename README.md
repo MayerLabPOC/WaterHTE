@@ -10,6 +10,14 @@ This repository contains the experimental kinetic datasets, scripts and machine 
 
 The sections of the repository refer to the section of the supporting information. 
 
+### NMR Data
+
+NMR data for the synthesized substrate and for the product analysis:
+
+```text
+section2_nmr/
+```
+
 ### Experimental Kinetic Data
 
 All experimental data generated and analyzed in this work are available in:
