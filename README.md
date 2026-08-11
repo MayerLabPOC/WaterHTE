@@ -31,7 +31,7 @@ section9_kinetics/
 All machine learning models and model evaluation scripts are available in:
 
 ```text
-section10_ML_regression/
+section10_ml_regression/
 ```
 ---
 ### Scripts for batch analysis
