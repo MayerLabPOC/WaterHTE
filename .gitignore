@@ -218,3 +218,7 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,python,jupyternotebooks
+
+### Project overrides ###
+# Gaussian outputs are data, not logs - the Python template above ignores *.log
+!section13_dft/**/*.log
