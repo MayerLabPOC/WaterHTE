@@ -3,7 +3,7 @@
 Data, scripts, and machine learning models associated with the study:
 
 > **High-Throughput Kinetics Enable Predicting Reactivity Across Mechanisms of Acid/Base Catalysis in Water**
-> Stefan Kuffer, Robert J. Mayer
+> Stefan Kuffer, Robert J. Mayer, Angewandte Chemie Novit, **2026**, 2, e70033 (https://doi.org/10.1002/anov.70033Digital Object Identifier (DOI) )
 
 Folder names refer to the corresponding sections of the Supporting Information (SI).
 
